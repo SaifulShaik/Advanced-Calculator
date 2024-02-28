@@ -49,8 +49,8 @@ public class advancedCalc extends JFrame {
                 "4", "5", "6", "*",
                 "1", "2", "3", "-",
                 "0", ".", "=", "+",
-                "C", "sqrt", "sin", "cos",
-                "tan", "(", ")", "^2", "π"
+                "C", "sqrt", "sin(", "cos(",
+                "tan(", "(", ")", "^2", "π"
         };
 
         for (String label : buttonLabels) {
